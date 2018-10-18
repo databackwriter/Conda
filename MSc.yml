@@ -1,4 +1,4 @@
-name: PyR
+name: MSc
 channels:
   - conda-forge
   - defaults
